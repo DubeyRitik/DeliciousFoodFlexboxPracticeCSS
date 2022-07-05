@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: rgb(172, 216, 202);
+}
+
+h1 {
+  font-family: cursive;
+  color: green;
+  text-align: center;
+  margin: 30px;
+  font-size: 40px;
+}
+h2 {
+  text-align: center;
+}
+
+.misal {
+  width: 30%;
+}
+
+.makka {
+  width: 30%;
+}
+
+.dhokla {
+  width: 30%;
+}
+.pongal {
+  width: 30%;
+}
+.litti {
+  width: 30%;
+}
+.biryani {
+  width: 30%;
+}
+.fish {
+  width: 30%;
+}
+.appam {
+  width: 30%;
+}
+.dal {
+  width: 30%;
+}
+.thukpa {
+  width: 30%;
+}
+.momo {
+  width: 30%;
+}
+.misa {
+  width: 30%;
+}
+.chila {
+  width: 30%;
+}
+
+.misal img {
+  width: 100%;
+  height: 100%;
+}
+
+.makka img {
+  width: 100%;
+  height: 100%;
+}
+
+.dhokla img {
+  width: 100%;
+  height: 100%;
+}
+.pongal img {
+  width: 100%;
+  height: 100%;
+}
+.litti img {
+  width: 100%;
+  height: 100%;
+}
+.biryani img {
+  width: 100%;
+  height: 100%;
+}
+.fish img {
+  width: 100%;
+  height: 100%;
+}
+.appam img {
+  width: 100%;
+  height: 100%;
+}
+.dal img {
+  width: 100%;
+  height: 100%;
+}
+.thukpa img {
+  width: 100%;
+  height: 100%;
+}
+.momo img {
+  width: 100%;
+  height: 100%;
+}
+.misa img {
+  width: 100%;
+  height: 100%;
+}
+.chila img {
+  width: 100%;
+  height: 100%;
+}
+
+.full {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 70px 30px;
+  align-items: stretch;
+  justify-content: space-around;
+}
+
+.litti {
+  align-self: stretch;
+}
